@@ -1,6 +1,9 @@
 
 <?php
 echo "sending email";
-echo "another email sent"
-echo "third line from cli"
+echo "another email sent";
+
+echo "third lirom cli";
+echo "third line from online";
+
 ?>
